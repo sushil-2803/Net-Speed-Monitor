@@ -39,7 +39,7 @@ You can either download the ready-to-use application or build it from the source
 
 ### For Users (Easy Installation)
 
-1.  **Download the Executable**: Go to the [Releases](https://github.com/your-username/your-repo/releases) page and download the latest `NetSpeedWidget.exe` file.
+1.  **Download the Executable**: Go to the [Releases](https://github.com/sushil-2803/Net-Speed-Monitor/releases) page and download the latest `NetSpeedWidget.exe` file.
 2.  **Run the Widget**: Double-click the `.exe` to start the widget. It will appear in the top-left corner of your primary screen.
 3.  **(Optional) Run on Startup**:
     -   Press `Win + R` to open the Run dialog.
